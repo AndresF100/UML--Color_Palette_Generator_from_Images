@@ -1,0 +1,7 @@
+numpy==x.x.x
+pandas==x.x.x
+opencv-python-headless==x.x.x
+scikit-learn==x.x.x
+scikit-fuzzy==x.x.x
+matplotlib==x.x.x
+seaborn==x.x.x
