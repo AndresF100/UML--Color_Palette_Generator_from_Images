@@ -29,7 +29,7 @@ Contributions to the project are welcome. Please fork the repository and submit 
 - Thanks to all the contributors who have helped with code, tests, and ideas.
 
 ## Contact
-For any queries or feedback regarding the project, please open an issue in the repository or write to alenacivanovaa@gmail.com
+For any queries or feedback regarding the project, please open an issue in the repository or write to alenacivanovaa@gmail.com or andresforero100@outlook.com
 
 # Color Palette Generator from Images
 
